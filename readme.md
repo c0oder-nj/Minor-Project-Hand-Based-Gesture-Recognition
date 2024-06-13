@@ -1,14 +1,12 @@
 # Hand Based Gesture Recogntion System
 
 For running the source code you need required libraries in your system
-1-> openCv
-2-> cvZone
-3-> pyautogui
-4-> time
+### OPENCV
+### CVZONE
+### PyAutoGui
+### time
 
-after installing the above library just run the python code using 
+after installing the above library just run the Python code using command
 
-# python main.py
-
-command
+### python main.py 
 
